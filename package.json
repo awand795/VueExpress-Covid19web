@@ -1,0 +1,19 @@
+{
+  "name": "coronamevnstack",
+  "version": "1.0.0",
+  "description": "Full Stack Website About Corona Information",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Awanda",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
